@@ -6,13 +6,6 @@
 ----------------------------------------
 
 
-<p align= "center" width="100%">
-       <img width="50%" src="./
-       img/saopaulo.png">
-    
-</p>
-
-
 # Titulo (sensasional)
 ## Titulo (sensasional)
 ### Titulo (sensasional)
